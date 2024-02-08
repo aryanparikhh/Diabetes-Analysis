@@ -1,4 +1,4 @@
-# Diabetes-Analysis
+# Diabetes-Prediction
 
 Introduction:
 
